@@ -6,9 +6,16 @@
 
 🛠 Технологии и инструменты
 
-Backend: [Python](https://camo.githubusercontent.com/d6bb5291dcb7e01d06c1e425691c36566430a5d4957bdaba40fb39d3096f8a01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465), Django, FastAPI, Flask
+Backend: 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-Базы данных: PostgreSQL, SQLAlchemy
+Базы данных: 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
 
 Тестирование: pytest
 
