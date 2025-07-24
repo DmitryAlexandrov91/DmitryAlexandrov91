@@ -12,7 +12,7 @@ Backend:
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
 
 Базы данных:
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
@@ -27,9 +27,12 @@ Backend:
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
 
-Боты: Aiogram
+Боты:
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
-Другое: Git, Docker, REST API
+Другое: 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 🔥 Мои проекты
 
