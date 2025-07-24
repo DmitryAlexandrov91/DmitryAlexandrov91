@@ -1,16 +1,31 @@
-## Hi there 👋
+Привет, меня зовут Дмитрий Александров 👋
+🚀 Python Backend-разработчик
 
-<!--
-**DmitryAlexandrov91/DmitryAlexandrov91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мечтаю создавать продукты, которые делают мир лучше.
+🛠 Технологии и инструменты
 
-Here are some ideas to get you started:
+    Backend: Python, Django, FastAPI, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Базы данных: PostgreSQL, SQLAlchemy
+
+    Тестирование: pytest
+
+    Автоматизация: Selenium
+
+    Боты: Aiogram
+
+    Другое: Git, Docker, REST API
+
+🔥 Мои проекты
+
+Здесь я применяю знания на практике, создавая полезные решения.
+📫 Как связаться
+
+    Telegram: [AlDmAl](https://t.me/AlDmAl)
+
+    Email: alexandrov.dm91@gmail.com
+
+    Habr Career: [alexandrov.dm91@gmail.com](https://career.habr.com/aldmal)
+
+    
+
