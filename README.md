@@ -1,10 +1,10 @@
 Привет, меня зовут Дмитрий Александров 👋
 
-🚀 Python Backend-разработчик
+### 🚀 Python Backend-разработчик
 
 Мечтаю создавать продукты, которые делают мир лучше.
 
-🛠 Технологии и инструменты
+### 🛠 Технологии и инструменты
 
 Backend: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -32,9 +32,27 @@ Backend:
 
 Другое: 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-🔥 Мои проекты
+### 🔥 Мои проекты
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
+
+- https://github.com/DmitryAlexandrov91/django_first_project
+- https://github.com/DmitryAlexandrov91/django_first_project
+- https://github.com/DmitryAlexandrov91/django_first_project
+- https://github.com/DmitryAlexandrov91/django_rest_framework_first_project
+- https://github.com/DmitryAlexandrov91/django_rest_framework_second_project
+- https://github.com/DmitryAlexandrov91/django_rest_framework_command_project
+- https://github.com/DmitryAlexandrov91/deploy_first_project
+
+
+
+
+
+
 
 
 Здесь я применяю знания на практике, создавая полезные решения.
