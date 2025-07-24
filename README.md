@@ -81,13 +81,13 @@ Backend:
 - https://github.com/DmitryAlexandrov91/tg_bot_example
 
 
-📫 Как связаться
+### 📫 Мои контакты
 
-Telegram: (https://t.me/AlDmAl)
+*Telegram*: https://t.me/AlDmAl
 
-Email: alexandrov.dm91@gmail.com
+*Email*: alexandrov.dm91@gmail.com
 
-Habr Career: (https://career.habr.com/aldmal)
+*Habr Career*: https://career.habr.com/aldmal
 
 
 
