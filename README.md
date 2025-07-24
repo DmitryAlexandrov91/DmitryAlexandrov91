@@ -22,6 +22,7 @@
 
 **Тестирование:**
 ![Pytest](https://img.shields.io/badge/-Pytest-0A0A0A?style=flat)
+![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=python&logoColor=white)
 
 **Парсинг и автоматизация:**
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
