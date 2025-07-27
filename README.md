@@ -45,8 +45,8 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
 
 - https://github.com/DmitryAlexandrov91/django_first_project
-- https://github.com/DmitryAlexandrov91/django_first_project
-- https://github.com/DmitryAlexandrov91/django_first_project
+- https://github.com/DmitryAlexandrov91/django_second_project
+- https://github.com/DmitryAlexandrov91/django_testing
 - https://github.com/DmitryAlexandrov91/django_rest_framework_first_project
 - https://github.com/DmitryAlexandrov91/django_rest_framework_second_project
 - https://github.com/DmitryAlexandrov91/django_rest_framework_command_project
