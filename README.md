@@ -35,7 +35,6 @@
 **Другое:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🔥 Мои проекты
