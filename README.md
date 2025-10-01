@@ -36,6 +36,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Polyfactory](https://img.shields.io/badge/-Polyfactory-FF4A36?style=flat&logo=python&logoColor=white)
+![Punq](https://img.shields.io/badge/-Punq-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔥 Мои проекты
 
